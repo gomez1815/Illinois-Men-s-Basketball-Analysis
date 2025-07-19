@@ -1,7 +1,6 @@
 # 🏀 Illinois Men’s Basketball Analytics (2024–25)
 
 ### Author: Taketo Horigome  
-**Submission for the Illinois Men’s Basketball Analytics Internship – Summer 2025**
 
 ---
 
